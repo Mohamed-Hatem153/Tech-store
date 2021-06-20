@@ -7,6 +7,7 @@
 - React Hooks
 - Context-api
 - styled components
+- Bootstrap
 - react-router-dom
 - JSX
 - react-icons
