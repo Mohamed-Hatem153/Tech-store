@@ -5,8 +5,7 @@
 
 - ReactJS
 - React Hooks
-- Redux
-- Redux Thunk
+- Context-api
 - styled components
 - react-router-dom
 - JSX
